@@ -118,7 +118,7 @@ header > h1, header > p{
         align-items: center;
     }
     main{
-        min-height:auto;
+        min-height:fit-content;
         height:80vh;
         width:80%;
         display:flex;
